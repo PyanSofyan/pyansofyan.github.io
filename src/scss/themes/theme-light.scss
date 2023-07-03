@@ -1,0 +1,16 @@
+body[data-theme="light"] {
+    @import '../src/scss/light-slider.scss';
+
+    .slider-tab {
+        background-color: #43b1b4;
+    }
+
+    .title-styles {
+        color: #a1f1f3;
+    }
+
+    .header-icon {
+        color: white;
+    }
+
+}
