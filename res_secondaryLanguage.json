@@ -1,0 +1,383 @@
+{
+  "basic_info": {
+    "description_header": "Hai",
+    "description": "👋 Saya Sofyan. Saya seorang Pengembang Aplikasi dengan pengalaman lebih dari 7 tahun di industri pertambangan. Terampil dalam .Net Framework, Android, Flutter dan tools seperti Git, Docker dan Kubernetes. Saya sangat suka Pemrograman, Pengembangan Aplikasi, dan Pemecahan Masalah. Dan juga sangat suka belajar dan mencoba teknologi baru.",
+    "section_name": {
+      "about": "Tentang Saya",
+      "projects": "Projek",
+      "skills": "Keterampilan",
+      "experience": "Pengalaman"
+    }
+  },
+  "projects": [
+    {
+      "title": "1Pama Mobile App",
+      "titleDesc": "1Pama Mobile App",
+      "position": "Fullstack Developer",
+      "description": "Aplikasi berbasis Android & IOS yang memiliki lebih dari 200 module untuk menunjang mobilitas dan produktifitas karyawan PT Pamapersada Nusantara yang berada di Head Office maupun seluruh area Jobsite. Untuk module yang saya kerjakan sekitar 40 module.",
+      "images": [
+        "images/portfolio/1pama/p1.jpg",
+        "images/portfolio/1pama/p2.jpg",
+        "images/portfolio/1pama/p3.jpg",
+        "images/portfolio/1pama/p4.jpg",
+        "images/portfolio/1pama/p5.jpg",
+        "images/portfolio/1pama/p6.jpg",
+        "images/portfolio/1pama/p7.jpg",
+        "images/portfolio/1pama/p8.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-androidstudio-plain",
+          "name": "Android"
+        },
+        {
+          "class": "devicon-java-plain",
+          "name": "Java"
+        },
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Flutter"
+        },
+        {
+          "class": "devicon-dart-plain",
+          "name": "Dart"
+        },
+        {
+          "class": "devicon-dotnetcore-plain",
+          "name": ".NET Core"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "iFlash",
+      "titleDesc": "iFlash (Integrated Fuel Lubricant Analytical System for High Performance)",
+      "position": "Fullstack Developer",
+      "description": "Aplikasi berbasis android yang berfokus pada pengelolaan, analisa dan monitoring penggunaan maupun pengiriman fuel/bahan bakar untuk keperluan operasional PT Pamapersada Nusantara.",
+      "images": [
+        "images/portfolio/iflash/p1.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-androidstudio-plain",
+          "name": "Android"
+        },
+        {
+          "class": "devicon-java-plain",
+          "name": "Java"
+        },
+        {
+          "class": "devicon-dotnetcore-plain",
+          "name": ".NET Core"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "PDT",
+      "titleDesc": "PDT (Part Delivery Tracking)",
+      "position": "Fullstack Developer",
+      "description": "Aplikasi berbasis android yang digunakan untuk melakukan pengelolaan, approval, purchasing, tracking, receiving spare part untuk kendaraan alat berat yang digunakan PT Pamapersada Nusantara.",
+      "images": [
+        "images/portfolio/pdt/p1.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-androidstudio-plain",
+          "name": "Android"
+        },
+        {
+          "class": "devicon-java-plain",
+          "name": "Java"
+        },
+        {
+          "class": "devicon-dotnetcore-plain",
+          "name": ".NET Core"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "D-Bora",
+      "titleDesc": "D-Bora (Daily Collaboration)",
+      "position": "Web Developer",
+      "description": "Aplikasi berbasis web yang digunakan Administrator untuk mengelola data master, approval dan reporting dari aplikasi iFlash dan PDT. Selain itu juga digunakan oleh Supplier yang bekerja sama dengan PT Pamapersada Nusantara untuk mengelola dan monitoring purchase order serta memberikan reporting yang dibutuhkan.",
+      "images": [
+        "images/portfolio/dbora/p1.jpg",
+        "images/portfolio/dbora/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-dotnetcore-plain",
+          "name": "ASP.NET Core"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-jquery-plain",
+          "name": "jQuery"
+        }
+      ]
+    },
+    {
+      "title": "MH02",
+      "titleDesc": "MH02 (Mata Hati V2)",
+      "position": "Web Developer",
+      "description": "Aplikasi berbasis web yang digunakan untuk memantau pengemudi, lokasi dan kecepatan alat berat yang sedang dioperasikan secara real-time. Sehingga petugas room control bisa mendapat pemberitahuan dan memberi peringatan secara langsung jika pengemudi melakukan pelanggaran seperti mengantuk atau mengemudi melebihi batas kecepatan.",
+      "images": [
+        "images/portfolio/mh02/p1.jpg",
+        "images/portfolio/mh02/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-dotnetcore-plain",
+          "name": "ASP.NET Core"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-jquery-plain",
+          "name": "jQuery"
+        }
+      ]
+    },
+    {
+      "title": "LPI",
+      "titleDesc": "LPI (Laporan Penyelidikan Insiden)",
+      "position": "Web Developer",
+      "description": "Web berbasis web dan mobile (module 1Pama) untuk melakukan pencatatan insiden atau kecelakaan kerja yang terjadi di seluruh area kerja PT Pamapersada Nusantara serta memberikan reporting untuk mempermudah proses investigasi.",
+      "images": [
+        "images/portfolio/lpi/p1.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-dotnetcore-plain",
+          "name": "ASP.NET Core"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-jquery-plain",
+          "name": "jQuery"
+        }
+      ]
+    },
+    {
+      "title": "SIM",
+      "titleDesc": "SIM (Sistem Informasi Mekanik)",
+      "position": "Web Developer",
+      "description": "Aplikasi berbasis web yang dikelola untuk monitoring dan reporting para mekanik yang ada di PT Pamapersada Nusantara",
+      "images": [
+        "images/portfolio/sim/p1.jpg",
+        "images/portfolio/sim/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-dotnetcore-plain",
+          "name": "ASP.NET Core"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-jquery-plain",
+          "name": "jQuery"
+        }
+      ]
+    },
+    {
+      "title": "BES",
+      "titleDesc": "BES (Budget Evaluating System)",
+      "position": "Web Developer",
+      "description": "Aplikasi berbasis web untuk mengatur dan mengelola anggaran produksi tambang di semua jobsite PT Pamapersada Nusantara.",
+      "images": [
+        "images/portfolio/bes/p1.jpg",
+        "images/portfolio/bes/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-dotnetcore-plain",
+          "name": "ASP.NET Core"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-jquery-plain",
+          "name": "jQuery"
+        }
+      ]
+    },
+    {
+      "title": "IPEAK",
+      "titleDesc": "IPEAK (Integrated Pama Experience and Knowledge)",
+      "position": "Web Developer",
+      "description": "Aplikasi perpustakaan online berbasis web dan mobile yang dikelola dan diperuntukan sebagai wadah ilmu pengetahuan yang mencangkup semua bidang di PT Pamapersada Nusantara.",
+      "images": [
+        "images/portfolio/ipeak/p1.jpg",
+        "images/portfolio/ipeak/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-dotnetcore-plain",
+          "name": "ASP.NET"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-jquery-plain",
+          "name": "jQuery"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "PT Pamapersada Nusantara",
+      "title": "Software Developer",
+      "years": "Mei 2016 - Sekarang",
+      "mainTech": [
+        "Web App",
+        "Mobile App"
+      ],
+      "technologies": [
+        ".NET Core",
+        "EF Core",
+        "Android",
+        "Java",
+        "Flutter",
+        "REST API",
+        "JavaScript",
+        "Bootstrap",
+        "jQuery",
+        "Kendo UI",
+        "Docker",
+        "Kubernetes"
+      ]
+    }
+  ]
+}
